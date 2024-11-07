@@ -6,6 +6,16 @@
 
 <br/>
 
+<br/>
+
+<div align="center" style="text-align: justify; max-width: 800px; margin: 0 auto;">
+  Estudiante apasionado por la programación y la tecnología. Soy un joven programador web de 17 años, especializado en frontend, aunque estoy ampliando mis conocimientos hacia el backend. Mi       stack principal incluye HTML, CSS y JavaScript, a través de los cuales desarrollo proyectos que destacan tanto por su diseño como por su accesibilidad.
+
+ </div>
+
+<br/>
+<br/>
+
 <div align="center">
  
  👨‍💻 Actualmente desarrollando un proyectos **Asap, Duarte Rent Car [Ver mas...]()**
