@@ -18,7 +18,7 @@
 
 <div align="center">
  
- 👨‍💻 Actualmente desarrollando un proyectos **Asap, Duarte Rent Car [Ver mas...]()**
+ 👨‍💻 Actualmente desarrollando algunos proyectos **Asap, Duarte Rent Car [Ver mas...]()**
  
  🌱 Aprendiendo nuevos lenguajes y Frameworks **PHP, React, Tailwind CSS, Bootstrap**
 
